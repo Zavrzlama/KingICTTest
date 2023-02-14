@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYAcUk1gEF76llDwhtEfRC13+GVOTlZLOYCWJ/GrmDYMfMApqBsEBUSpJqru+7E83kY/taXPrYw9vp9KCM5QiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tonism\\Documents\\TestKingICT\\FlightOffer.API\\FlightOffer.DAL\\FlightOffer.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonism\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\tonism\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tonism\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tonism\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\tonism\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

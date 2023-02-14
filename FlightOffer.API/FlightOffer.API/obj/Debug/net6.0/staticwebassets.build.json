@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6J9obFPdh59/sWR7SH/6b9w4jo32vRqUHn4emTWukvE=",
+  "Source": "FlightOffer.API",
+  "BasePath": "_content/FlightOffer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
